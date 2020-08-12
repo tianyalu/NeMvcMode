@@ -34,7 +34,7 @@
 
 ### 2.2 从`MVC`到`MVP`的演变
 
-当用户回退`Activity`后，`Activity`本应该销毁，但如果其继续执行耗时任务导致不能销毁的话，最终会导致内存泄漏，由此引出`MVP`。
+当用户回退`Activity`后，`Activity`本应该销毁，但如果其继续执行耗时任务导致不能销毁的话，最终会导致内存泄漏，由此引出`MVP`，参考： [MVP思想精髓与解耦](https://github.com/tianyalu/NeMvpMode) 。
 
 ```java
     @Override
