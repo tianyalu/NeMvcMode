@@ -22,11 +22,11 @@
 
 ![image](https://github.com/tianyalu/NeMvcMode/raw/master/show/android_three_level_model.png)
 
-## 二、实操
+## 二、实践
 
 ### 2.1 实现
 
-本文实现了点击按钮通过网络请求下载图片并渲染到视图上的操作，效果如下图所示：
+本文使用`MVC`实现了点击按钮通过网络请求下载图片并渲染到视图上的操作，效果如下图所示：
 
 ![image](https://github.com/tianyalu/NeMvcMode/raw/master/show/show.gif)
 
